@@ -1,0 +1,1 @@
+# Desenvolvi este programa que cadastra gêneros de filmes que são salvos em uma ComboBox. O programa também cadastra/salva filmes, inserindo o nome do filme, produtor, lançamento e, os gêneros que o usuário cadastrou (e alguns gêneros já pré-cadastrados), ficam na ComboBox. Usei o visual da Netflix como exemplo, porque tem um design chamativo e familiar.
